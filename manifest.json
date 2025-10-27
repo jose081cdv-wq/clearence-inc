@@ -1,7 +1,7 @@
 {
   "name": "Calculadora Cockcroft-Gault",
   "short_name": "Calculadora CG",
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#FF6B1F",
